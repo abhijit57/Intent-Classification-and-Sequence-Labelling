@@ -1,1 +1,1 @@
-This folder contains all the scripts related to linguistics analysis, Intent Classification, Seque labelling and testing.
+This folder contains all the scripts related to linguistics analysis, Intent Classification, Sequence labelling and testing.
