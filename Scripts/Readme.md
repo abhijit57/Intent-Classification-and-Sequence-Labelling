@@ -1,4 +1,5 @@
 *********This project is on Intent classification of 3 intents dataset only and Sequence labeling************
+
 *********Sequence labeling to find custom entity "Money" from sentences************
 
 Intent Classification:
