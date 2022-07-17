@@ -1,4 +1,4 @@
-Intent classification of 3 intents dataset as well as the complete dataset (150 intents) and Sequence labeling to find custom entity "Money" from sentences.
+*** Intent classification of 3 intents dataset as well as the complete dataset (150 intents) and Sequence labeling to find custom entity "Money" from sentences.
 
 
 Intent Classification:
